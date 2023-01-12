@@ -1,5 +1,9 @@
 # Cesta Orgs 
 
+<div align="center">
+<img width="50%" src="https://cdn.discordapp.com/attachments/901295847793360909/1062826853171200040/image1.png" />
+</div>
+
 ## Sobre o projeto 
 
 Esse projeto foi desenvolvido no curso **React Native: criando um app** da Alura. 
